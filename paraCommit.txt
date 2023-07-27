@@ -1,4 +1,5 @@
 git pull origin main
+git pull --allow-unrelated-histories
 git push origin main
 ####### En caso de que no funcione lo anterior
 git push -f origin master
