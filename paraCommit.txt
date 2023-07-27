@@ -1,1 +1,4 @@
-git push -f origin main
+git pull origin main
+git push origin main
+####### En caso de que no funcione lo anterior
+git push -f origin master
